@@ -10,7 +10,7 @@ Markdown==2.6.11
 paramiko==2.4.1
 pyasn1==0.4.3
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 PyNaCl==1.2.1
 pytz==2018.4
 six==1.11.0
